@@ -1,0 +1,368 @@
+@media (min-width: 1400px){
+    .banner-content h1 {
+        font-size: 150px;
+        line-height: 140px;
+    }
+}
+
+
+@media (min-width:1200px)and (max-width: 1399px){
+    .banner-content h1 {
+        font-size: 110px;
+    }
+    .banner-content h2 {
+        font-size: 68px;
+    }
+    .ban-button {
+        padding-top: 18px;
+    }
+    .ban-button a {
+            padding: 15px 22px;
+            font-size: 15px;
+    }
+    .ban-button {
+        padding-top: 48px;
+    }
+}
+
+@media (min-width:992px)and (max-width: 1199px){
+    
+    .banner-content h1 {
+        font-size: 72px;
+    }
+    .banner-content h2 {
+        font-size: 52px;
+    }
+    .ban-button {
+        padding-top: 18px;
+    }
+    .ban-button a {
+            padding: 15px 22px;
+            font-size: 15px;
+    }
+    .ban-button {
+        padding-top: 48px;
+    }
+    .navbar-brand h3 {
+        color: #fff;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .comment-text p {
+        font-size: 18px;
+    }
+    .footer-form input {
+        width: 372px;
+    }
+    .footer-form button {
+        right: 4px;
+    }
+    .blogs-text p {
+        padding-left: 20px;
+    }
+    .blogs-text h5 {
+        padding-left: 20px;
+    }
+    
+}
+
+@media (min-width:768px)and (max-width: 991px){
+    .navbar {
+        background-color: #f38181;
+    }
+    .nav-toggle {
+        top: 14px;
+        padding: 1px 28px 16px 0;
+        
+    }
+    .banner-content h1 {
+        font-size: 45px;
+    }
+    .banner-content h2 {
+        font-size: 35px;
+    }
+    .banner-content h1::after {
+        display: none;
+    }
+    .ban-button {
+        padding-top: 18px;
+    }
+    .ban-button a {
+            padding: 12px 14px;
+            font-size: 15px;
+    }
+    .navbar {
+        position: sticky;
+        
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        color: #000;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+    .navbar-brand h3 {
+        color: #fff;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    element {
+        color: #f38181;
+
+    }
+    .banner-content h2 {
+        font-size: 72px;
+        line-height: 40px;
+    }
+    .banner-content h1 {
+        font-size: 87px;
+    }
+    .overlay-content h5 {
+        font-size: 14px;
+    }
+    .service-text p {
+        padding-bottom: 20px;
+    }
+    .comment-text p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .blogs-text p {
+        padding-left: 20px;
+    }
+    .blogs-text h5 {
+        padding-left: 20px;
+    }
+    .footer-form input {
+        width: 300px;
+        padding: 12px 15px;
+    }
+    .footer-form button {
+        right: 36px;
+    }
+    .footer-icon a i {
+        font-size: 15px;
+    }
+}
+
+
+
+
+
+@media (min-width:576px)and (max-width: 767px){
+    .navbar {
+        background-color: #f38181;
+    }
+    .nav-toggle {
+        top: 14px;
+        padding: 1px 28px 16px 0;
+        
+    }
+    .banner-content h1 {
+        font-size: 45px;
+    }
+    .banner-content h2 {
+        font-size: 35px;
+    }
+    .banner-content h1::after {
+        display: none;
+    }
+    .ban-button {
+        padding-top: 18px;
+    }
+    .ban-button a {
+            padding: 12px 14px;
+            font-size: 15px;
+    }
+    .navbar {
+        position: sticky;
+        
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        color: #000;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+    .navbar-brand h3 {
+        color: #fff;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    element {
+        color: #f38181;
+    }
+    .about-header h3 {
+        font-size: 20px;
+        
+    }
+    .about-header h2 {
+        font-size: 22px;
+    }
+    .about-header p {
+        font-size: 14px;
+        line-height: 22px;
+        padding-bottom: 45px;
+    }
+    .overlay-content h5 {
+        font-size: 14px;
+    }
+    .counter-topic h3 {
+        font-size: 50px;
+    }
+    .counter-topic span {
+        font-size: 13px;
+    }
+    .service-text h3 {
+        font-size: 13px; 
+        padding-bottom: 12px;
+    }
+    .service-icon i {
+        padding-bottom: 30px;
+    }
+    .service-text p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .comment-text p {
+        font-size: 16px;
+        line-height: 27px;
+        padding-right: 0;
+        padding-top: 20px;
+    }
+    .footer-content p {
+        font-size: 13px;
+        line-height: 20px;
+        padding-bottom: 40px;
+    }
+    .footer-icon  a i{
+        margin-right: 8px;
+        font-size: 13px;
+    }
+    .footer-form input {
+        width: 242px;
+    }
+    .footer-form button {
+        position: static;
+        margin-top: 20px;
+      
+    }
+    
+} 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ @media (max-width: 575.99px) {
+    .navbar {
+        background-color: #f38181;
+    }
+    .nav-toggle {
+        top: 14px;
+        padding: 1px 28px 16px 0;
+        
+    }
+    .banner-content h1 {
+        font-size: 30px;
+    }
+    .banner-content h2 {
+        font-size: 22px;
+    }
+    .banner-content h1::after {
+        display: none;
+    }
+    .ban-button {
+        padding-top: 18px;
+    }
+    .ban-button a {
+        padding: 8px 7px;
+        font-size: 13px;
+    }
+    .navbar {
+        position: sticky;
+        
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        color: #000;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+    .navbar-brand h3 {
+        color: #fff;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    element {
+        color: #f38181;
+    }
+    .about-header h3 {
+        font-size: 15px;
+        
+    }
+    .about-header h2 {
+        font-size: 17px;
+    }
+    .about-header p {
+        font-size: 13px;
+        line-height: 22px;
+        padding-bottom: 45px;
+    }
+    .counter-topic h3 {
+        font-size: 50px;
+    }
+    .counter-topic span {
+        font-size: 13px;
+    }
+    .service-text h3 {
+        font-size: 13px; 
+        padding-bottom: 12px;
+    }
+    .service-icon i {
+        padding-bottom: 30px;
+    }
+    .service-text p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .comment-text p {
+        font-size: 16px;
+        line-height: 27px;
+        padding-right: 0;
+        padding-top: 20px;
+    }
+    .footer-content p {
+        font-size: 13px;
+        line-height: 20px;
+        padding-bottom: 40px;
+    }
+    .footer-icon  a i{
+        margin-right: 8px;
+        font-size: 13px;
+    }
+    .footer-form input {
+        width: 242px;
+    }
+    .footer-form button {
+        position: static;
+        margin-top: 20px;
+      
+    }
+   
+}
